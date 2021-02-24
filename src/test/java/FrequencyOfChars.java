@@ -7,7 +7,7 @@ public class FrequencyOfChars {
         String str = scan.next();    //ABABCAB
 
         String nonDup = "";
-        String result = "";
+        String result = ""; // comment
 
         for (int i = 0; i <= str.length() - 1; i++) {         //to iterate every single character in the string
            String ch = "" + str.charAt(i);             // to retrieve every single character from the String

@@ -25,6 +25,7 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -54,13 +55,40 @@
       <option name="presentableId" value="Default" />
       <updated>1612215057620</updated>
     </task>
+    <task id="LOCAL-00001" summary="new">
+      <created>1614194582795</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1614194582795</updated>
+    </task>
+    <task id="LOCAL-00002" summary="new">
+      <created>1614194778706</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1614194778706</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new" />
+    <option name="LAST_COMMIT_MESSAGE" value="new" />
   </component>
   <component name="WindowStateProjectService">
     <state x="121" y="0" key="#Project_Structure" timestamp="1612215078069">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="121" y="0" key="#Project_Structure/0.0.1536.824/1920.-359.2048.1112@0.0.1536.824" timestamp="1612215078069" />
+    <state x="291" y="0" key="CommitChangelistDialog2" timestamp="1614194777823">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="291" y="0" key="CommitChangelistDialog2/0.0.1536.824@0.0.1536.824" timestamp="1614194777823" />
+    <state x="496" y="89" key="FileChooserDialogImpl" timestamp="1614194847341">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="496" y="89" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1614194847341" />
     <state x="512" y="287" key="Github.ShareDialog" timestamp="1614184381924">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
