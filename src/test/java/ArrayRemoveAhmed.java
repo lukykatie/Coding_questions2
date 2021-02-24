@@ -1,0 +1,2 @@
+public class ArrayRemoveAhmed {
+}
